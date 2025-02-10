@@ -1,0 +1,17 @@
+{
+  "name": "pulsechain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sniperBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security",
+    "xlsx": "^0.18.5"
+  }
+}
